@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  },
+  "scripts": {
+    "start": "next start",
+    "build": "next build",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run --headed"
+  }
+}

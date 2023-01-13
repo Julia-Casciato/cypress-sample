@@ -1,0 +1,50 @@
+{
+  "resume": {
+    "button": "Download Resume",
+    "file": "downloads/JuliaCasciato_Resume.pdf"
+  },
+  "hireMe": {
+    "button": "Hire Me",
+    "href": "#contact"
+  },
+  "about": {
+    "id": "about",
+    "title1": "About",
+    "title2": "About Me" 
+  },
+  "experience": {
+    "id": "qualification",
+    "title1": "Quality",
+    "title2": "My Experience",
+    "column1": "QA Experience",
+    "column2": "Other Tech Experience",
+    "jobs": "6"
+  },
+  "skills": {
+    "id": "skill",
+    "title1": "Skills",
+    "title2": "My Skills",
+    "category": {
+      "one": "Specialized In",
+      "two": "QA Tools",
+      "three": "Project Management"
+    }
+  },
+  "certificate": {
+    "id": "certificate",
+    "title1": "Certificate",
+    "title2": "My Certificates",
+    "count": 3
+  },
+  "contact": {
+    "id": "contact",
+    "title1": "Contact",
+    "title2": "Contact Me",
+    "form": {
+      "name": "Cypress Test",
+      "email": "cypresstest@fakeemail.com",
+      "message": "This is a Cypress test. Please ignore. :)",
+      "url": "formspree"
+    }
+  }
+}
